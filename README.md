@@ -1,4 +1,6 @@
-- 😜 Name: Taoika
+# Hello~😋
+--- 
+I am Taoika.
 - 🏃 Life stage: college student
 - 💻 Major: Computer Science and Technology
 - 🎑 Interests: Front-end
